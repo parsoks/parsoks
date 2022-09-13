@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parsoks
-- 👀 I’m interested in python, software for special needs education
+- 👀 I’m interested in python, software development for special needs education apps.
 - 🌱 I’m currently learning python, flask and react.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
